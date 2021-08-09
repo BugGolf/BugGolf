@@ -15,6 +15,3 @@
 * 🔒 Docker / K8S (Rancher, Portainer)
 * ☁ Azure / Google Cloud / AWS
 * 📱 Flutter, Java (Android)
-
-## Portfolio
-ผลงานในอดีต
